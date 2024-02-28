@@ -1,0 +1,7 @@
+{
+  "name": "AppRevisionGps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
