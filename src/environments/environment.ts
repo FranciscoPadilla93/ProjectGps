@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false
+  , urlbackend: 'http:200.76.187.147:3000/api/'
 };
 
 /*
